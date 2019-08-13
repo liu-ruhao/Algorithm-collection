@@ -16,5 +16,5 @@ config={
 # 获取批次batch
 "train_dir": './input_data/' , # 训练样本的读入路径
 "logs_train_dir": './save' ,# logs存储路径
-"num":"Googlenet"#["Alexnet","Googlenet","vgg16","1"
+"num":"Googlenet"#["Alexnet","Googlenet","vgg16",1
       }
